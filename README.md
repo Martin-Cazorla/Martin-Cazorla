@@ -4,7 +4,7 @@
   <h3>Desarrollador Web Full Stack | Apasionado por el desarrollo de software y la tecnología</h3>
 
   <p>
-    <a href="[https://linkedin.com/in/TU-USUARIO-LINKEDIN](https://linkedin.com/in/héctor-martín-cazorla-sota-2089542a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/héctor-martín-cazorla-sota-2089542a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:martincazorlasota@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 </div>
@@ -55,8 +55,8 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martin-Cazorla&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-Cazorla&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Lenguajes más usados" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Martin-Cazorla&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Martin-Cazorla&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="165" />
 </div>
 
 <br />
@@ -70,6 +70,6 @@
 <!-- CONTACTO -->
 ## 📬 ¡Hablemos!
 
-- **LinkedIn:** [Héctor Martín Cazorla Sota](https://linkedin.com/in/héctor-martín-cazorla-sota-2089542a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **LinkedIn:** [Héctor Martín Cazorla Sota](https://linkedin.com/in/héctor-martín-cazorla-sota-2089542a3)
 - **Email:** [martincazorlasota@gmail.com](mailto:martincazorlasota@gmail.com)
 - **Ubicación:** Buenos Aires, Argentina
