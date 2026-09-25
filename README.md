@@ -1,6 +1,6 @@
 <!-- HEADER / PRESENTACIÓN -->
 <div align="center">
-  <h1>¡Hola! Soy Héctor Martín Cazorla Sota 👋</h1>
+  <h1>¡Hola! Soy Héctor Martín Cazorla Sota </h1>
   <h3>Desarrollador Web Full Stack | Apasionado por el desarrollo de software y la tecnología</h3>
 
   <p>
@@ -12,16 +12,16 @@
 ---
 
 <!-- SOBRE MÍ -->
-## 🚀 Sobre mí
+##  Sobre mí
 
-- 💻 Desarrollando aplicaciones web modernas con enfoque en **Full Stack**.
-- 🛠️ Creando proyectos escalables, arquitecturas sólidas y sistemas interactivos.
-- 🎯 Siempre abierto a colaborar en proyectos de código abierto y nuevos desafíos profesionales.
+-  Desarrollando aplicaciones web modernas con enfoque en **Full Stack**.
+-  Creando proyectos escalables, arquitecturas sólidas y sistemas interactivos.
+-  Siempre abierto a colaborar en proyectos de código abierto y nuevos desafíos profesionales.
 
 ---
 
 <!-- TECH STACK -->
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 <div align="center">
   <!-- Frontend -->
@@ -52,7 +52,7 @@
 ---
 
 <!-- MÉTRICAS DE GITHUB -->
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Martin-Cazorla&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
@@ -68,7 +68,7 @@
 ---
 
 <!-- CONTACTO -->
-## 📬 ¡Hablemos!
+## ¡Hablemos!
 
 - **LinkedIn:** [Héctor Martín Cazorla Sota](https://linkedin.com/in/héctor-martín-cazorla-sota-2089542a3)
 - **Email:** [martincazorlasota@gmail.com](mailto:martincazorlasota@gmail.com)
