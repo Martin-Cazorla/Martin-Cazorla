@@ -4,7 +4,7 @@
   <h3>Desarrollador Web Full Stack | Apasionado por el desarrollo de software y la tecnología</h3>
 
   <p>
-    <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="[https://linkedin.com/in/TU-USUARIO-LINKEDIN](https://linkedin.com/in/héctor-martín-cazorla-sota-2089542a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:martincazorlasota@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 </div>
@@ -71,5 +71,5 @@
 ## 📬 ¡Hablemos!
 
 - **LinkedIn:** [Héctor Martín Cazorla Sota](https://linkedin.com/in/héctor-martín-cazorla-sota-2089542a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- **Email:** [tu-email@ejemplo.com](mailto:martincazorlasota@gmail.com)
+- **Email:** [martincazorlasota@gmail.com](mailto:martincazorlasota@gmail.com)
 - **Ubicación:** Buenos Aires, Argentina
