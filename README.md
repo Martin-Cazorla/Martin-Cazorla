@@ -52,23 +52,23 @@
 ---
 
 <!-- MÉTRICAS DE GITHUB -->
-## Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Martin-Cazorla&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Martin-Cazorla&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Martin-Cazorla&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Martin-Cazorla&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Lenguajes más usados" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martin-Cazorla&theme=dark&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martin-Cazorla&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&currStreakLabel=58a6ff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 ---
 
 <!-- CONTACTO -->
-## ¡Hablemos!
+##  ¡Hablemos!
 
 - **LinkedIn:** [Héctor Martín Cazorla Sota](https://linkedin.com/in/héctor-martín-cazorla-sota-2089542a3)
 - **Email:** [martincazorlasota@gmail.com](mailto:martincazorlasota@gmail.com)
