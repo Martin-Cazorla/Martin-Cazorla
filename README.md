@@ -70,6 +70,6 @@
 <!-- CONTACTO -->
 ## 📬 ¡Hablemos!
 
-- **LinkedIn:** [Héctor Martín Cazorla Sota](https://linkedin.com/in/TU-USUARIO-LINKEDIN)
-- **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+- **LinkedIn:** [Héctor Martín Cazorla Sota](https://linkedin.com/in/héctor-martín-cazorla-sota-2089542a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **Email:** [tu-email@ejemplo.com](mailto:martincazorlasota@gmail.com)
 - **Ubicación:** Buenos Aires, Argentina
